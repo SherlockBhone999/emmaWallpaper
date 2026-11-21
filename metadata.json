@@ -1,0 +1,6 @@
+{
+  "name": "Emma Wallpaper",
+  "description": "Minimal full-screen edge-to-edge wallpaper viewer displaying an Emma Watson portrait in Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
